@@ -102,6 +102,9 @@ body {
 .header nav ul li a {
   color: #FDFDFD;
 }
+.header nav ul li .active {
+  border-bottom: 2px dashed #FA9F42;
+}
 .header .down {
   display: flex;
   justify-content: space-between;
@@ -495,6 +498,9 @@ body {
   line-height: 100%;
   color: #353A5A;
 }
+.course-header .wrap div nav ul li .active {
+  border-bottom: 2px dashed #FA9F42;
+}
 .bread .breadcrumb {
   display: flex;
   align-items: center;
@@ -769,6 +775,9 @@ body {
   font-size: 22px;
   line-height: 130%;
   color: #353A5A;
+}
+.faq .wrapper .block-slide .wrapp .click {
+  cursor: pointer;
 }
 .faq .wrapper .block-slide .t2 {
   font-style: normal;
