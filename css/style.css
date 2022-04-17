@@ -102,7 +102,7 @@ body {
 .header nav ul li a {
   color: #FDFDFD;
 }
-.header nav ul li .active {
+.header nav ul .active {
   border-bottom: 2px dashed #FA9F42;
 }
 .header .down {
@@ -498,7 +498,7 @@ body {
   line-height: 100%;
   color: #353A5A;
 }
-.course-header .wrap div nav ul li .active {
+.course-header .wrap div nav ul .active {
   border-bottom: 2px dashed #FA9F42;
 }
 .bread .breadcrumb {
